@@ -1,0 +1,8 @@
+//Métodos HTTP get, post, put, delete
+
+// Tipos de parametros:
+//Query Params: request.query (Filtros, Ordenação, paginação)
+//Route Paramns: request.paramns (identificar um recurso na alteração ou remoção)
+//Body: request.body (Dados para criação ou alteração de um registro)
+
+//MongoDB (Não-relacional)
